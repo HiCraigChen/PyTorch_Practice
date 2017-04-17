@@ -1,4 +1,4 @@
-# PyTorch_Practice
+# PyTorch Practice
 
 Practice from the following materials:
 
